@@ -1,0 +1,12 @@
+div.titulo {
+    margin: 10px 10px 10px 10px;
+    background-color: aqua;
+    text-align: center;
+    font-family:'Times New Roman', Times, serif;
+}
+header.principal{
+    background-color: aqua;
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    
+}

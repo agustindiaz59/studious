@@ -1,0 +1,6 @@
+h3 p {color: red; font-size : 20px}
+* {font-size : 20px}
+#selector_id {color : green}
+.selector_de_clase {color : gray}
+p>span {color : tomato}
+#imagenHTML5 {margin-left: 10em;}
