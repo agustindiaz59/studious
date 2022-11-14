@@ -3,10 +3,12 @@ div.titulo {
     background-color: aqua;
     text-align: center;
     font-family:'Times New Roman', Times, serif;
+    border-radius: 8px;
 }
 header.principal{
     background-color: aqua;
     text-align: center;
     font-family: Georgia, 'Times New Roman', Times, serif;
-    
+    border-radius: 8px; 
+    margin: 10px 10px 10px 10px;   
 }
